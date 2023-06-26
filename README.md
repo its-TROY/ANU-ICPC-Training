@@ -8,6 +8,7 @@
 - C++ Variable Scope
 - C++ Operators
 - C++ Functions
+---------------------------------------------------------------
 - C++ Arrays
 - C++ Strings
 - C++ Pointers
