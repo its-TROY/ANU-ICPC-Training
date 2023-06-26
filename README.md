@@ -8,7 +8,6 @@
 - C++ Variable Scope
 - C++ Operators
 - C++ Functions
----------------------------------------------------------------
 - C++ Arrays
 - C++ Strings
 - C++ Pointers
@@ -42,7 +41,7 @@
     -  boolean expressions if(x)
     - for loop and all it's forms  change the initialization statement , after loop statement , while , do while
     - nested loops
-- Arrays,Strings in C++
+- 🚩Arrays,Strings in C++
     - show the uninitialized array , all initialization ways , global array
     - sort arrays using sort function
     - *Note:* they used the .begin and . end without explaining the iterators
